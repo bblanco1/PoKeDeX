@@ -6,6 +6,8 @@ This is my iteration of the infamous PoKeDeX. Ever since watching the show as a 
 
 ## Current Fuctionality 
 
+![zGwr7M](http://cdn.makeagif.com/media/10-22-2015/zGwr7M.gif)
+
 I created my own JSON to host all the PoKeMoN data that was needed to populate in the app.
 
 ```javascript 
