@@ -1,6 +1,6 @@
 ![alt text](http://cdn.bulbagarden.net/upload/thumb/1/1b/Pokedex_logo.png/250px-Pokedex_logo.png "PoKeDeX Logo")
 
-This is my iteration of the infamous PoKeDeX. Ever since watching the show as a child, I've wanted a version of such a device as close to the show's version as possible. Of course there were various versions that came out in toy stores, etc. but I wanted to take it one step further and try and get Ash's PoKeDeX as close to TV show, if not exactly the same. I wanted to integrate not only the images and the data, but the simulated UI featured in the series. 
+This is my iteration of the infamous PoKeDeX. Ever since I first saw the show, I've wanted a version of such a device as close to the show's version as possible. Of course there were various versions that came out in toy stores, etc. but I wanted to take it one step further and try and get Ash's PoKeDeX as close to TV show, if not exactly the same. I wanted to integrate not only the images and the data, but the simulated UI featured in the series. 
 
 ![alt text](http://assets4.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep42_ss01.jpg "PoKeDex Example")
 
